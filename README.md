@@ -51,7 +51,7 @@ task2
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Diksha7002/FUTURE_FS_02
 ```
 
 ### 2. Install Backend Dependencies
